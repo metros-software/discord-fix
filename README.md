@@ -14,5 +14,5 @@ https://www.npmjs.com/
 https://www.electronjs.org/
 https://nodejs.org/
 ```
-main - https://github.com/therealsdy/DiscordFix
+main - https://github.com/therealsdy/DiscordFix<br>
 ... electron version -> realise pyqt5 web-server git -> beta-qt-discord-fix
