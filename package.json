@@ -1,0 +1,21 @@
+{
+    "name": "discordfix-ui",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "package": "electron-packager . --platform=win32 --arch=x64 --out=dist --overwrite"
+    },
+    "dependencies": {
+        "electron": "^25.9.8",
+        "electron-compile": "^3.3.6",
+        "electron-compiler": "^1.0.9"
+    },
+    "devDependencies": {
+        "electron-builder": "^25.1.8"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
